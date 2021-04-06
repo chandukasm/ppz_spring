@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c28e67d4-1606-4a03-892f-dc9b69806848" name="Default Changelist" comment="initial">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/PpzApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/controllers/DiagnoseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/controllers/DoctorsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/controllers/DrugController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/controllers/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/models/Diagnose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/models/Doctors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/models/Drug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/models/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/models/PrescribedDrugs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/repositories/DiagnoseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/repositories/DoctorsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/repositories/DrugRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/repositories/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/services/DiagnoseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/services/DoctorsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/services/DrugService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ppz/ppz/services/PatientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ppz/ppz/PpzApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZLsxT30GRaiCBYpQkfeZky1t2c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PpzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ppz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ppz.ppz.PpzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28e67d4-1606-4a03-892f-dc9b69806848" name="Default Changelist" comment="" />
+      <created>1584629954392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584629954392</updated>
+      <workItem from="1584629957805" duration="293000" />
+      <workItem from="1584632041077" duration="1630000" />
+      <workItem from="1585026599420" duration="8000" />
+      <workItem from="1617718301848" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1617718482072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.2.1360.728@0.0.1366.728" timestamp="1617718482072" />
+  </component>
+</project>
